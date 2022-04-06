@@ -1,0 +1,3 @@
+﻿  QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
+  Generate moc_predefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: Custom build for 'release\moc_predefs.h.cbt' exited with code 2.
